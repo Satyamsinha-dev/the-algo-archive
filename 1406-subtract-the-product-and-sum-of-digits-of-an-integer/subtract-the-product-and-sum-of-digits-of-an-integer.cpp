@@ -15,7 +15,7 @@ public:
             sum += digit;
 
             num /= 10;
-        }
+         }
 
         return product - sum;
     }
